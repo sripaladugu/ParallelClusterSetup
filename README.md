@@ -2,7 +2,8 @@
 
 * Configuring the AWS Parallel Cluster:
 
-A custom Bootstrap script ``` pcasino_install.sh ``` is used for installing the dependencies.
+A custom Bootstrap script ``` pcasino_install.sh ``` is used for installing the dependencies. 
+The script installs docker on both master and compute nodes. It also installs java, graphviz, nextflow and cromwell on master node.
 
 ``` sh
 pcluster configure
