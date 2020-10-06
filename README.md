@@ -1,4 +1,4 @@
-*** AWS Parallel Cluster ***
+### AWS Parallel Cluster 
 
 * Configuring the AWS Parallel Cluster:
 
